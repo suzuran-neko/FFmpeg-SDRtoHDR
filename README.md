@@ -1,5 +1,5 @@
 # FFmpeg-SDRtoHDR
-SDR video convert to HDR video script
+SDR video convert to HDR video script  
 FFmpegを使用してSDR動画をH.265/HEVC HDR 10へエンコードするスクリプト
 
 ## 使い方
